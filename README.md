@@ -209,10 +209,9 @@ else:
 - **Bonds** - Single, double, triple bonds shown with different widths
 - **Format** - PNG with white background, no anti-aliasing artifacts
 
-**Example output**
+### Example output:
 
 ![Aspirin](img/aspirin.png)
-
 
 
 ### File Information
