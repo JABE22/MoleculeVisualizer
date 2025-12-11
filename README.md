@@ -209,6 +209,9 @@ else:
 - **Bonds** - Single, double, triple bonds shown with different widths
 - **Format** - PNG with white background, no anti-aliasing artifacts
 
+**Example output**
+![Aspirin](img/aspirin.png)
+
 ### File Information
 ```
 Image Resolution: Variable (400×400 to 1000×1000 pixels)
