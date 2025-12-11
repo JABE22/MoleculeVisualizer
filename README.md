@@ -210,7 +210,10 @@ else:
 - **Format** - PNG with white background, no anti-aliasing artifacts
 
 **Example output**
+
 ![Aspirin](img/aspirin.png)
+
+
 
 ### File Information
 ```
